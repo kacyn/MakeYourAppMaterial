@@ -26,7 +26,7 @@
         android:layout_width="match_parent"
         android:layout_height="112dp"
         android:background="@color/theme_primary"
-        android:elevation="8dp">
+        android:elevation="4dp">
 
         <android.support.v7.widget.Toolbar
             android:id="@+id/toolbar"
@@ -48,4 +48,4 @@
         </android.support.v7.widget.Toolbar>
     </FrameLayout>
 
-</android.support.design.widget.CoordinatorLayout><!-- From: file:/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/src/main/res/layout/activity_article_list.xml -->
+</android.support.design.widget.CoordinatorLayout><!-- From: file:/C:/Users/Kacyn/AndroidStudioProjects/MakeYourAppMaterial/XYZReader/src/main/res/layout/activity_article_list.xml -->

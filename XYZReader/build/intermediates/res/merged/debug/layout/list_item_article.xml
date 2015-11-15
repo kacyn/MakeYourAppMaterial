@@ -1,11 +1,13 @@
 <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:stateListAnimator="@anim/card_anim"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_marginLeft="4dp"
     android:layout_marginRight="4dp"
     android:layout_marginTop="4dp"
     android:layout_marginBottom="4dp"
+    android:elevation="2dp"
     android:clickable="true"
     android:focusable="true"
     android:foreground="?selectableItemBackground">
@@ -16,10 +18,11 @@
         android:orientation="vertical">
 
         <!--suppress AndroidLintContentDescription -->
-        <com.example.xyzreader.ui.DynamicHeightNetworkImageView
+        <!--<com.example.xyzreader.ui.DynamicHeightNetworkImageView-->
+        <ImageView
             android:id="@+id/thumbnail"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="200dp"
             android:scaleType="centerCrop"
             android:background="@color/theme_primary_dark" />
 
@@ -51,4 +54,4 @@
     </LinearLayout>
 
 </android.support.v7.widget.CardView>
-<!-- From: file:/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/src/main/res/layout/list_item_article.xml -->
+<!-- From: file:/C:/Users/Kacyn/AndroidStudioProjects/MakeYourAppMaterial/XYZReader/src/main/res/layout/list_item_article.xml -->

@@ -2,11 +2,95 @@
 <items version="2" >
 
     <item
-        jar="/Users/kacyn/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jar="C:\Users\Kacyn\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\1.1.0\d51280dbb4e8539f6c3f369d516edc26f9d89d31\okhttp-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
+        <dex dex="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\build\intermediates\pre-dexed\debug\okhttp-1.1.0-1f652154e4b461a431803d00f32961afe3fe5140.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\build\intermediates\pre-dexed\debug\classes-bd2d5eed53b6a215eccd75e8e12b4817555f7b4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\build\intermediates\pre-dexed\debug\volley-0bd8a0bee25cf2ecef6ed5fecea6c9f2cc3ed19a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kacyn\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-06e0af85310914201aeaacc09de08a844488bcf7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kacyn\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
-        <dex dex="/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/glide-3.5.2-5f8736c0e867f739625454d32bfeaa09864dee69.jar" />
+        <dex dex="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\build\intermediates\pre-dexed\debug\glide-3.5.2-176db4ae6322cf38d234301c477575b25f60ae66.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\build\intermediates\pre-dexed\debug\classes-409cb25af0e71918678385582945f9a63b3fd3a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-e0687cd6d25e257c10fc25c40e86d5a7d429c9d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-6a0f47a623c071276a15633d31bf6ef999853913.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\build\intermediates\pre-dexed\debug\classes-caed8e6bd85afa6c92ef5eb104f708a2ef5f23b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\build\intermediates\pre-dexed\debug\classes-ba1a300d5010558fe292638b759ac047204c150c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\build\intermediates\pre-dexed\debug\classes-0e0df241be5395f84d5c0db33a7ed460c31908f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\build\intermediates\pre-dexed\debug\classes-398a2263a226395ee70acdf50e9ac7a4a9283fea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\Kacyn\AndroidStudioProjects\MakeYourAppMaterial\XYZReader\build\intermediates\pre-dexed\debug\classes-2f28e19bbe11ad92288d9a480a0c15a47a08c67d.jar" />
     </item>
 
 </items>
