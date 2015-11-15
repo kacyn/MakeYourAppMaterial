@@ -2,81 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
+        jar="/Users/kacyn/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
-        <dex dex="/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-6ea0b3c477acd4b696a93c83d6b355515d259d21.jar" />
-    </item>
-    <item
-        jar="/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
-        <dex dex="/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-8bb980a8b6801926a7bdeb9cf8bf3ab02f58bcc6.jar" />
-    </item>
-    <item
-        jar="/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-32805ccb93d295a5133b0ce5e60dc7006ac1d7b8.jar" />
-    </item>
-    <item
-        jar="/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c6d79137693d494dee16372d3921f919eb724ced">
-        <dex dex="/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-1ace0030443073adcc53bb2d144ea145388cf6ba.jar" />
-    </item>
-    <item
-        jar="/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
-        <dex dex="/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-c425e1e10f944f3ab36a8dd87f742ec84bc09c5e.jar" />
-    </item>
-    <item
-        jar="/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
-        <dex dex="/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-d74811e6a82749bda25674764c31427ed302b4bd.jar" />
-    </item>
-    <item
-        jar="/Users/kacyn/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-92ca5568ae7355693a89e6b6f6a5684c1f8af6b9.jar" />
-    </item>
-    <item
-        jar="/Users/kacyn/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/1.1.0/d51280dbb4e8539f6c3f369d516edc26f9d89d31/okhttp-1.1.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
-        <dex dex="/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-1.1.0-558f0f846856afb76dd35aa431abf0b12ecb002b.jar" />
-    </item>
-    <item
-        jar="/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-79690d41052175d55d4d7f7f19736d5322d0c626.jar" />
-    </item>
-    <item
-        jar="/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/libs/volley.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
-        <dex dex="/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-56358c3d3c4caaab97c720830c460d35e46a3912.jar" />
-    </item>
-    <item
-        jar="/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-c683ed5488dc093f61b3f6de1943a4494bb1787d.jar" />
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/kacyn/Documents/workspace/nano/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/glide-3.5.2-5f8736c0e867f739625454d32bfeaa09864dee69.jar" />
     </item>
 
 </items>
